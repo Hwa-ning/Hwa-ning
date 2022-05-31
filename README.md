@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hwa-ning&fontSize=60&fontColor=FFFFFF"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hwa-ning&fontSize=60&fontColor=FFFFFF"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwa-ning&show_icons=true)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh2134)](https://solved.ac/ojh2134)
