@@ -1,14 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hwa-ning&fontSize=60&fontColor=FFFFFF"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwa-ning&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh2134)](https://solved.ac/ojh2134/)
-
-
-### 📋 Career
-22.02~</br>
-더존비즈온 ERP사업부문 플랫폼개발 BE
-</br>
-</br>
 
 ### 💻 Skills
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
