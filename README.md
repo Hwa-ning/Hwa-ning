@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hwa-ning&fontSize=60&fontColor=FFFFFF"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ojh2134)](https://solved.ac/ojh2134/)
 
